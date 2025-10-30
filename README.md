@@ -2,13 +2,14 @@
 Simple .vimrc without plugins
 
 
-# Install
+
+**Install**:
 
 ```
 curl https://raw.githubusercontent.com/wangvsa/vim-for-server/master/vimrc > ~/.vimrc
 ```
 
 
-# Screenshot
+**Screenshot**
 
 ![screenshot](https://raw.githubusercontent.com/wklken/gallery/master/vim/vim-for-server.png)
